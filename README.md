@@ -6,9 +6,9 @@
 + Swiggy sends order details everytime
 
 ## SMS
-[x] Swiggy
-[x] Generic UPI
-[x] Blinkit
-[x] Flipkart
-[x] Amazon pay groceries
-[x] Zepto
+- [x] Swiggy
+- [x] Generic UPI
+- [x] Blinkit
+- [x] Flipkart
+- [x] Amazon pay groceries
+- [x] Zepto
