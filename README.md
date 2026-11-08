@@ -8,4 +8,9 @@
 ## SMS
 + All UPI transactions can be recorded reliably
 - Not much metadata about the transaction 
-  
+[x] Swiggy
+[x] Generic UPI
+[x] Blinkit
+[x] Flipkart
+[x] Amazon pay groceries
+[x] Zepto
